@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChangeBSPTextures": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Half-Life\\valve\\maps\\c0a0.bsp\""
+    }
+  }
+}
